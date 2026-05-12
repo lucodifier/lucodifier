@@ -59,9 +59,4 @@
 
 <img width="787" height="177" alt="image" src="https://github.com/user-attachments/assets/ad5c3470-1fc5-4f5b-9b67-e7ee39769164" />
 
-
 ---
-
-## 📫 Contatos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianorieth)
