@@ -58,16 +58,6 @@
 - *Building Event-Driven Microservices* (2ª ed.) — Adam Bellemare
 
 ---
-
-## 📚 Estou estudando / quero aprender  
-
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Go](https://img.shields.io/badge/Go-1.23-00ADD8?logo=go&logoColor=white&style=for-the-badge) 
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-- ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
-- ![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white)  
-
----
 ## 🏅 Certificações
 
 <img width="787" height="177" alt="image" src="https://github.com/user-attachments/assets/ad5c3470-1fc5-4f5b-9b67-e7ee39769164" />
