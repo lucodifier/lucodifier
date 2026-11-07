@@ -1,9 +1,9 @@
 ![Luciano Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Luciano%20👨‍💻&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
-🎧 Arquiteto de Software em evolução, apaixonado por tecnologia, música e animes.  
-💻 Trabalho principalmente com **Node.js (NestJS, Fastify), React (Next.js), .NET**, sempre explorando novas arquiteturas, escalabilidade e boas práticas.  
-📚 Atualmente estou me aprofundando em **Arquitetura de Software, Data Science, Cybersecurity e Inteligência Artificial**.  
-🚀 Meu objetivo é me tornar um **Arquiteto de Software completo**, unindo código limpo, boas práticas, documentação e inovação.  
+🎧 Tech Lead e Engenheiro de Software, apaixonado por tecnologia, música e animes.  
+💻 Trabalho principalmente com **Node.js (NestJS, Fastify), React (Next.js) e .NET**, em sistemas de produção onde erro custa dinheiro: royalties musicais, venda de ingressos, transporte de valores e programas de fidelidade.  
+📚 Pós-graduando em **Arquitetura de Software, Ciência de Dados e Cybersecurity** (PUC-PR) e seguindo a rota do arquiteto.  
+🚀 Meu objetivo é me tornar um **Arquiteto de Software completo**, unindo código limpo, boas práticas, documentação e inovação.
 
 ---
 
