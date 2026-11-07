@@ -44,6 +44,19 @@
 
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white)  ![Arquitetura Limpa](https://img.shields.io/badge/Clean%20Architecture-2E3440?style=for-the-badge&logo=archlinux&logoColor=white)  ![Domain Driven Design](https://img.shields.io/badge/DDD-007ACC?style=for-the-badge&logo=azure-devops&logoColor=white)  ![Event Driven Architecture](https://img.shields.io/badge/EDA-FF4088?style=for-the-badge&logo=rabbitmq&logoColor=white)  ![Cloud Native](https://img.shields.io/badge/Cloud%20Native-4285F4?style=for-the-badge&logo=cloud&logoColor=white)  
 
+
+---
+## 🧭 Rota do arquiteto
+
+**📖 Lendo agora**
+- *Software Architecture: The Hard Parts* — Ford, Richards, Sadalage, Dehghani
+- *Liderança em Engenharia de Software*
+- *Head First Software Architecture* — Gandhi, Richards, Ford
+- *Designing Data-Intensive Applications* — Kleppmann
+- *System Design Interview* — Alex Xu
+- *Software Engineering at Google* — Winters, Manshreck, Wright
+- *Building Event-Driven Microservices* (2ª ed.) — Adam Bellemare
+
 ---
 
 ## 📚 Estou estudando / quero aprender  
